@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SP Urban dictionary</string>
+
+    <string-array name="title_story">
+        <item>Omkar</item>
+        <item>Abhijit</item>
+        <item>Prathamesh</item>
+        <item>Somesh</item>
+        <item>Sudesh</item>
+        <item>Sahil</item>
+        <item>Sanket</item>
+        <item>Samrat</item>
+        <item>Saurabh</item>
+        <item>Pranav</item>
+        <item>Prithviraj</item>
+        <item>Aman</item>
+        <item>Karan</item>
+        <item>Nilay</item>
+
+
+    </string-array>
+
+    <string-array name="details_story">
+
+        <item>Omkar person who is very loyal and caring person,bt some time his this behavior hurts people,omkar is the funniest and energetic person in the universe, Omkar is so loyal to his loveones, omkar is smart and intelligent too, he makes his/her friends feel secure, and his dark side is he he gets angry easily ,his problem is his anger, Bt he cannot control ,this type of persons are like Romeo and moody, omkar is the world of someone, and he will keep all friends happy</item>
+        <item>Abhijit :name bestowed upon supremely talented/awesome/out-of-this-worldly handsome individuals, who are truly the personification of perfection </item>
+        <item>Prathamesh is generally a tall guy, and is very curious about everything!.He considers himself to be someone special, and maybe he is right about it.One thing about Prathamesh is that he loves science, mainly biology and physics.His dream is to give this world something big (mainly in the field of science), and make everyone laugh </item>
+        <item>Somesh is really a smart guy to hangout everyday,friendly and stunning</item>
+        <item>Sudesh is having high morals and extremely intelligent guy.Such people dont study but get somewhat get good marks</item>
+        <item>Sahil is hotest guy alive,smartiest and funiest </item>
+        <item>Sanket is nice person and  has structured and carefuuly mainatained haircut</item>
+        <item>Samrat is sexiest guy ever and he will get all girrls to love her abs</item>
+        <item>Saurabh is chraming guy who generally is tall and handsome.He makes who fall in love with him instantly.He is seen more on emotional side and will love you forever</item>
+        <item>Pranav is gorgeous boy and has sparkliest eyes and most perfect hairs</item>
+        <item>Prithviraj is king of world.He is hottest guy around and no matter what happens,he will be there </item>
+        <item>Aman is amazing person.He si friendly ,loyal,funning,caring and very curdlty.he is always there for people who he loves</item>
+        <item>Karan is very nice and funny person and is friend you would love to be with</item>
+        <item>Nilay is very cute.Nilay is hot and ahs very nice body and is tall and is acring for everyone especially his girl</item>
+
+    </string-array>
+
+</resources>
